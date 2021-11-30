@@ -3,6 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:paddingBottom="50dp"
+    android:id="@+id/activity_main"
     android:paddingLeft="50dp"
     android:paddingRight="50dp"
     android:paddingTop="50dp">
@@ -31,8 +32,12 @@
     <EditText
         android:id="@+id/edit_user"
         android:layout_width="wrap_content"
+        android:nextFocusDown="@+id/edit_password"
         android:layout_height="wrap_content"
         android:layout_alignBottom="@+id/user_text"
+        android:maxLines="1"
+        android:inputType="text"
+        android:imeOptions="actionNext"
         android:layout_marginLeft="35dp"
         android:textSize="15sp"
         android:layout_toRightOf="@+id/user_text"
