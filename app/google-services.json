@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "400075843922",
+    "project_id": "rebuild-a5756",
+    "storage_bucket": "rebuild-a5756.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400075843922:android:528a53fd9114d72388728b",
+        "android_client_info": {
+          "package_name": "com.hfad.rebuild"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400075843922-3rs38n3kf1mk8mpe6ijcrd6b22avbat0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMke9Pact0TFzrtdB2SjCppBjlkkdCZJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400075843922-3rs38n3kf1mk8mpe6ijcrd6b22avbat0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
